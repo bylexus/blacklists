@@ -1,0 +1,46 @@
+# Alex Schenkels Blacklists - porn sites
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/bylexus/blacklists/master/porn/hosts
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+0.0.0.0 redtube.com
+0.0.0.0 fr.redtube.com
+0.0.0.0 de.redtube.com
+0.0.0.0 redtube93.com
+0.0.0.0 redtube93.com
+0.0.0.0 pornoaktuelle.com
+0.0.0.0 geilefrauen.net
+0.0.0.0 spermaporno.com
+0.0.0.0 xcams.cam
+0.0.0.0 delightfulold.com
+0.0.0.0 blagodat-gorny.ru
+0.0.0.0 nachtporno.com
+0.0.0.0 german-sexbilder.com
+0.0.0.0 tolleporno.com
+0.0.0.0 penemundo.com
+0.0.0.0 pornus.pro
+0.0.0.0 xxxmomporn.tube
+0.0.0.0 xxx-sex.fun
+0.0.0.0 pornofilmedeutsche.com
+0.0.0.0 frauporno.com
+0.0.0.0 pornhubdeutsch.org
+0.0.0.0 milfkiste.com
+0.0.0.0 zuckerporno.com
+0.0.0.0 kalyanam.net
+0.0.0.0 reallifecam.com
+0.0.0.0 pornoklinge.com
